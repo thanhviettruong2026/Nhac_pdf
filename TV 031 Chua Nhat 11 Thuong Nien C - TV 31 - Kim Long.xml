@@ -1,0 +1,2523 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 2.0 Partwise//EN" "http://www.musicxml.org/dtds/partwise.dtd">
+<score-partwise version="2.0">
+	<work>
+		<work-title>Chúa Nhật 1 1 Thường Niên C
+                Thaùnh Vònh 31
+                                    Kim Long</work-title>
+	</work>
+	<identification>
+		<encoding>
+			<software>PDFtoMusic Pro - 64-bits v1.7.1 Build 1FE54 (c) Myriad - http://www.myriad-online.com</software>
+			<?PDFtoMusic Document type 0100- 5A5073B2?>
+			<supports attribute="new-system" element="print" type="yes" value="yes"/>
+			<supports attribute="new-page" element="print" type="yes" value="yes"/>
+		</encoding>
+	</identification>
+	<defaults>
+		<scaling>
+			<millimeters>6.857644</millimeters>
+			<tenths>40</tenths>
+		</scaling>
+		<page-layout>
+			<page-height>1732.600</page-height>
+			<page-width>1224.343</page-width>
+			<page-margins type="both">
+				<left-margin>58.329</left-margin>
+				<right-margin>58.329</right-margin>
+				<top-margin>58.329</top-margin>
+				 <bottom-margin>58.329</bottom-margin>
+			</page-margins>
+		</page-layout>
+		<appearance>
+			<line-width type="stem">0.9375</line-width>
+			<line-width type="beam">5.0000</line-width>
+			<line-width type="staff">0.9375</line-width>
+			<line-width type="light barline">1.4764</line-width>
+			<line-width type="heavy barline">5.0001</line-width>
+			<line-width type="leger">1.5625</line-width>
+		</appearance>
+	</defaults>
+	<credit page="1">
+		<credit-words  default-x="181.563" default-y="1597.634" justify="left" valign="baseline" font-family="SFUGrenobleMedium" font-size="32" font-weight="normal" font-style="normal">Chúa Nhật 1 1 Thường Niên C
+</credit-words>
+		<credit-words   justify="left" valign="baseline" font-family="VNI-Centur" font-size="11" font-weight="bold" font-style="normal">                Thaùnh Vònh 31
+</credit-words>
+		<credit-words   justify="left" valign="baseline" font-family="UTMAmericanaEB" font-size="9" font-weight="normal" font-style="normal">                                    Kim Long</credit-words>
+	</credit>
+	<credit page="1">
+		<credit-words  default-x="257.344" default-y="74.025" justify="left" valign="baseline" font-family="UTMAmericanaEB" font-size="7" font-weight="normal" font-style="normal">© Kim Long, Thánh Vịnh Đáp Ca (2005) * Imprimatur: 1 5 1 1  2005 ! &quot;#  #h$ C%&amp;ng ' ((( )i*u+a n*t</credit-words>
+	</credit>
+	<credit page="1">
+		<credit-words  default-x="288.438" default-y="152.912" justify="left" valign="baseline" font-family="VNI" font-size="11" font-weight="normal" font-style="normal">1</credit-words>
+	</credit>
+	<credit page="1">
+		<credit-words  default-x="551.251" default-y="152.912" justify="left" valign="baseline" font-family="VNI" font-size="11" font-weight="normal" font-style="normal">1</credit-words>
+	</credit>
+	<part-list>
+		<score-part id="P1">
+			<part-name></part-name>
+			<score-instrument id="P1-I1">
+				<instrument-name>Instrument 1</instrument-name>
+			</score-instrument>
+			<midi-instrument id="P1-I1">
+				<midi-channel>1</midi-channel>
+				<midi-bank>1</midi-bank>
+				<midi-program>17</midi-program>
+				<volume>50</volume>
+				<pan>0</pan>
+				<elevation>0</elevation>
+				<?Myriad
+				<iddigit>1600</iddigit>
+				?>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+	<part id="P1">
+		<!--==========================[1,1]=============================-->
+		<measure number="1" width="213">
+			<sound tempo="80" />
+			<print new-page="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>51.046</left-margin>
+						<right-margin>32.924</right-margin>
+					</system-margins>
+					<top-system-distance>209.640</top-system-distance>
+				</system-layout>
+			</print>
+			<attributes>
+				<divisions>6720</divisions>
+				<key>
+					<fifths>-1</fifths>
+					<mode>major</mode>
+				</key>
+				<time>
+					<beats>2</beats>
+					<beat-type>4</beat-type>
+				</time>
+				<clef number="1">
+					<sign>G</sign>
+					<line>2</line>
+				</clef>
+				<staff-details number="1" print-object="yes">
+					<staff-lines>5</staff-lines>
+					<staff-size>100.00</staff-size>
+				</staff-details>
+			</attributes>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-10.47">up</stem>
+				<lyric number="1" justify="right" default-y="-100.39">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="11" font-weight="bold" font-style="normal" xml:lang="vi">
+Ñaùp:Laïy</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,2]=============================-->
+		<measure number="2" width="290">
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5040</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem default-y="9.53">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">Chuùa,</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5040</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem default-y="9.53">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="9.53">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">
+Chuùa</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="9.53">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ñaõ</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="14.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">thöù</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="14.22">up</stem>
+			</note>
+		</measure>
+		<!--==========================[1,3]=============================-->
+		<measure number="3" width="161">
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10080</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem default-y="9.53">up</stem>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">tha</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10080</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem default-y="9.53">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.53">up</stem>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">bao</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.53">up</stem>
+			</note>
+		</measure>
+		<!--==========================[1,4]=============================-->
+		<measure number="4" width="277">
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-5.47">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">toäi</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<accidental>sharp</accidental>
+				<stem default-y="-5.47">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-5.47">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">tình</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-5.47">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.22">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">con</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.22">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">loãi</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<alter>1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+			</note>
+		</measure>
+		<!--==========================[1,5]=============================-->
+		<measure number="5" width="80">
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-10.47">up</stem>
+				<lyric number="1" justify="center" default-y="-100.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">phaïm.</text>
+				</lyric>
+			</note>
+			<backup>
+				<duration>6720</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>2</voice>
+				<type>quarter</type>
+				<stem default-y="-72.97">down</stem>
+			</note>
+			<barline location="right">
+				<bar-style>heavy</bar-style>
+			</barline>
+		</measure>
+		<!--==========================[1,6]=============================-->
+		<measure number="6" width="243">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>51.046</left-margin>
+						<right-margin>27.779</right-margin>
+					</system-margins>
+					<system-distance>110.313</system-distance>
+				</system-layout>
+			</print>
+			<barline location="left">
+				<repeat direction="forward"/>
+			</barline>
+			<attributes>
+				<staff-details number="1" print-object="yes">
+				</staff-details>
+			</attributes>
+			<direction placement="above">
+				<direction-type>
+					<words font-family="UTMAmericanaEB" font-size="11" font-weight="normal" font-style="normal" relative-x="58.32" default-y="48.65"></words>
+				</direction-type>
+			</direction>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-0.78">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="right" default-y="-90.32">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="12" font-weight="bold" font-style="normal" xml:lang="vi">
+1.Haïnh</text>
+				</lyric>
+				<lyric number="2" justify="right" default-y="-125.32">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="12" font-weight="bold" font-style="normal" xml:lang="vi">
+2.Vì</text>
+				</lyric>
+				<lyric number="3" justify="right" default-y="-160.39">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="11" font-weight="bold" font-style="normal" xml:lang="vi">
+3.Vì</text>
+				</lyric>
+				<lyric number="4" justify="right" default-y="-195.39">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="11" font-weight="bold" font-style="normal" xml:lang="vi">
+4.Cuøng</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">phuùc</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">theá</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">choán</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ñeán</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,7]=============================-->
+		<measure number="7" width="323">
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.53">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">thay</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">nay</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">con</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ñay</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.53">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">cho</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">con</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ñay</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">hoan</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="-0.78">up</stem>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">!e&quot;</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">cha#ng</text>
+				</lyric>
+				<lyric number="3" justify="left" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">a%n</text>
+				</lyric>
+				<lyric number="4" justify="left" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">h$</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="4.22">up</stem>
+				<beam number="1">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">loãi</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">giaáu</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">naùu</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">nha&quot;y</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,8]=============================-->
+		<measure number="8" width="306">
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5040</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem default-y="-10.47">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">la&amp;m</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">'gaøi</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">hoaøi</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">möøng,</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="-10.47">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">maø</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">toäi</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">laø</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">naøo</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-0.78">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">ñö(ïc</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">tình</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">(&quot;</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ngö(øi</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">tha</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">con</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">n(i</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">cong</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,9]=============================-->
+		<measure number="9" width="155">
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="9.53">up</stem>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">thöù,</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">nöõa,</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">
+Chuùa,</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ch)nh,</text>
+				</lyric>
+			</note>
+			<note>
+				<rest>
+				</rest>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-55.47">down</stem>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">coù</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">loãi</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">giöõ</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">'eùp</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,10]=============================-->
+		<measure number="10" width="337">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>51.046</left-margin>
+						<right-margin>27.779</right-margin>
+					</system-margins>
+					<system-distance>203.438</system-distance>
+				</system-layout>
+			</print>
+			<attributes>
+				<staff-details number="1" print-object="yes">
+				</staff-details>
+			</attributes>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5040</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem default-y="-0.47">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="right" default-y="-90.32">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="12" font-weight="bold" font-style="normal" xml:lang="vi">
+1.toäi</text>
+				</lyric>
+				<lyric number="2" justify="right" default-y="-125.32">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="12" font-weight="bold" font-style="normal" xml:lang="vi">
+2.la&amp;m</text>
+				</lyric>
+				<lyric number="3" justify="right" default-y="-160.39">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="11" font-weight="bold" font-style="normal" xml:lang="vi">
+3.gìn</text>
+				</lyric>
+				<lyric number="4" justify="right" default-y="-195.39">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="11" font-weight="bold" font-style="normal" xml:lang="vi">
+4.*aøo</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="-0.47">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">maø</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">+a&amp;y</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">!ho&quot;i</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">'gaøi</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-0.78">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">ñö(ïc</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">nguyeän</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">moïi</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">maø</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">!hoan</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">,öng</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">gian</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">*ui</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,11]=============================-->
+		<measure number="11" width="75">
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<tie type="start"/>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="4.53">up</stem>
+				<notations>
+					<tied type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">ung.</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">+a.</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">nguy.</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">len.</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,12]=============================-->
+		<measure number="12" width="184">
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="4.53">up</stem>
+				<notations>
+					<tied type="stop" number="1"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">
+Haïnh</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">Vaø</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">Vaø</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">Vaø</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="16.72">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">phuùc</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">.uyeát</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">!ha/p</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">nhöõng</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,13]=============================-->
+		<measure number="13" width="144">
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10080</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem default-y="9.53">up</stem>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">thay</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">tam</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">n(i</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ai</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.53">up</stem>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">cho</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">ñi</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">muon</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">tam</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,14]=============================-->
+		<measure number="14" width="285">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="1.72">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">ngö(øi</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">töï</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ngö(øi</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ho&amp;n</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">
+Chuùa</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">thuù</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">t+o%i</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">tha#ng</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="6.72">up</stem>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">!hong</text>
+				</lyric>
+				<lyric number="2" justify="left" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">bao</text>
+				</lyric>
+				<lyric number="3" justify="left" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">*ang</text>
+				</lyric>
+				<lyric number="4" justify="left" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ngay</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="2.03">up</stem>
+				<beam number="1">continue</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">haïch</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-0.78">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">toäi</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">l(øi</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">*eïn</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,15]=============================-->
+		<measure number="15" width="205">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>51.046</left-margin>
+						<right-margin>359.072</right-margin>
+					</system-margins>
+					<system-distance>195.625</system-distance>
+				</system-layout>
+			</print>
+			<attributes>
+				<staff-details number="1" print-object="yes">
+				</staff-details>
+			</attributes>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>10080</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<dot/>
+				<stem default-y="-5.47">up</stem>
+				<lyric number="1" justify="right" default-y="-90.32">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="12" font-weight="bold" font-style="normal" xml:lang="vi">
+1.toäi,</text>
+				</lyric>
+				<lyric number="2" justify="right" default-y="-125.32">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="12" font-weight="bold" font-style="normal" xml:lang="vi">
+2.tình</text>
+				</lyric>
+				<lyric number="3" justify="right" default-y="-160.39">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="11" font-weight="bold" font-style="normal" xml:lang="vi">
+3.möøng</text>
+				</lyric>
+				<lyric number="4" justify="right" default-y="-195.38">
+					<syllabic>single</syllabic>
+					<text font-family="VNI-Centur" font-size="11" font-weight="bold" font-style="normal" xml:lang="vi">
+4.toaøn,</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-5.47">up</stem>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">loøng</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">ñe%</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">*ì</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">naøo</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,16]=============================-->
+		<measure number="16" width="312">
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>5040</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem default-y="9.53">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">t+)</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">Chuùa</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">Chuùa</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">caát</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="9.53">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">cha#ng</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">thöù</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">cöùu</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">tieáng</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-0.78">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">*ö(ng</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">tha</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">con</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">len</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-5.78">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">gian</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">!hoan</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">an</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">+eo</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,17]=============================-->
+		<measure number="17" width="90">
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<tie type="start"/>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-10.47">up</stem>
+				<notations>
+					<tied type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="center" default-y="-90.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">taø.</text>
+				</lyric>
+				<lyric number="2" justify="center" default-y="-125.37">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="12" font-weight="normal" font-style="normal" xml:lang="vi">ho&amp;ng.</text>
+				</lyric>
+				<lyric number="3" justify="center" default-y="-160.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">toaøn.</text>
+				</lyric>
+				<lyric number="4" justify="center" default-y="-195.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">hoø.</text>
+				</lyric>
+			</note>
+			<barline location="right">
+				<repeat direction="backward" times="4"/>
+			</barline>
+		</measure>
+		<!--==========================[1,18]=============================-->
+		<measure number="18" width="88">
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<tie type="stop"/>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-10.47">up</stem>
+				<notations>
+					<tied type="stop" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<rest>
+				</rest>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+			</note>
+		</measure>
+		<!--==========================[1,19]=============================-->
+		<measure number="19" width="175">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>51.046</left-margin>
+						<right-margin>27.779</right-margin>
+					</system-margins>
+					<system-distance>267.813</system-distance>
+				</system-layout>
+			</print>
+			<attributes>
+				<staff-details number="1" print-object="yes">
+				</staff-details>
+			</attributes>
+			<direction placement="above">
+				<direction-type>
+					<words font-family="VNI-Centur" font-size="12" font-weight="bold" font-style="normal" relative-x="53.15" default-y="54.30">Tung hoâTin Möøng</words>
+				</direction-type>
+			</direction>
+			<attributes>
+				<time>
+					<beats>2</beats>
+					<beat-type>4</beat-type>
+				</time>
+			</attributes>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-50.16">down</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">0l</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-55.16">down</stem>
+				<beam number="1">end</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-55.16">down</stem>
+				<notations>
+					<technical>
+						<fingering placement="below" relative-x="-18.80" relative-y="-23.75">1</fingering>
+					</technical>
+				</notations>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">le</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,20]=============================-->
+		<measure number="20" width="124">
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-57.66">down</stem>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" number="1" placement="above" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">lu</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-57.66">down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-60.16">down</stem>
+				<beam number="1">end</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<technical>
+						<fingering placement="below" relative-x="1.20" relative-y="-18.75">1</fingering>
+					</technical>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-60.16">down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-57.97">down</stem>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ia,</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-57.97">down</stem>
+			</note>
+		</measure>
+		<!--==========================[1,21]=============================-->
+		<measure number="21" width="175">
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">0l</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="14.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">le</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="14.22">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="11.72">up</stem>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" number="1" placement="above" orientation="over"/>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="11.72">up</stem>
+				<notations>
+					<slur type="start" number="2" placement="below" orientation="under"/>
+					<technical>
+						<fingering placement="below" relative-x="-11.61" relative-y="-28.46">1</fingering>
+					</technical>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">end</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+				<lyric number="1" justify="right" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">lu</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<notations>
+					<slur type="stop" number="2"/>
+				</notations>
+			</note>
+		</measure>
+		<!--==========================[1,22]=============================-->
+		<measure number="22" width="70">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-0.47">up</stem>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ia.</text>
+				</lyric>
+			</note>
+			<backup>
+				<duration>13440</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<tie type="start"/>
+				<voice>2</voice>
+				<type>half</type>
+				<stem default-y="-62.97">down</stem>
+				<notations>
+					<tied type="start" number="1" placement="below" orientation="over"/>
+				</notations>
+			</note>
+		</measure>
+		<!--==========================[1,23]=============================-->
+		<measure number="23" width="204">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-0.47">up</stem>
+				<lyric number="1" justify="left" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">2hien</text>
+				</lyric>
+			</note>
+			<backup>
+				<duration>6720</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<tie type="stop"/>
+				<voice>2</voice>
+				<type>quarter</type>
+				<stem default-y="-62.97">down</stem>
+				<notations>
+					<tied type="stop" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem default-y="-57.66">down</stem>
+				<beam number="1">begin</beam>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>2</voice>
+				<type>eighth</type>
+				<stem default-y="-50.16">down</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">
+Chuùa</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,24]=============================-->
+		<measure number="24" width="277">
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>5040</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem default-y="-50.16">down</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ñaõ</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="-57.66">down</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">yeu</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">thö(ng</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="14.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">chuùng</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,25]=============================-->
+		<measure number="25" width="242">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>51.046</left-margin>
+						<right-margin>27.779</right-margin>
+					</system-margins>
+					<system-distance>102.813</system-distance>
+				</system-layout>
+			</print>
+			<attributes>
+				<staff-details number="1" print-object="yes">
+				</staff-details>
+			</attributes>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="4.53">up</stem>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ta,</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.22">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">*aø</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ñaõ</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,26]=============================-->
+		<measure number="26" width="277">
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">3ai</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="7.97">up</stem>
+				<beam number="1">continue</beam>
+				<notations>
+					<slur type="start" number="1" placement="below" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">
+Con</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="6.72">up</stem>
+				<beam number="1">end</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<technical>
+						<fingering placement="above" relative-x="2.76" relative-y="47.19">1</fingering>
+					</technical>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-10.78">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">4oät</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-15.78">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">mình</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,27]=============================-->
+		<measure number="27" width="217">
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="9.53">up</stem>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ñeán</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">laøm</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="14.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">cu&quot;a</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,28]=============================-->
+		<measure number="28" width="290">
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>5040</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<dot/>
+				<stem default-y="16.72">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">leã</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1680</duration>
+				<voice>1</voice>
+				<type>16th</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ñe&amp;n</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-0.78">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">toäi</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-90.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">chuùng</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,29]=============================-->
+		<measure number="29" width="238">
+			<print new-system="yes">
+				<system-layout>
+					<system-margins>
+						<left-margin>51.046</left-margin>
+						<right-margin>298.369</right-margin>
+					</system-margins>
+					<system-distance>96.250</system-distance>
+				</system-layout>
+			</print>
+			<attributes>
+				<staff-details number="1" print-object="yes">
+				</staff-details>
+			</attributes>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-0.47">up</stem>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ta.</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-50.16">down</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">0l</text>
+				</lyric>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-55.16">down</stem>
+				<beam number="1">end</beam>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-55.16">down</stem>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">le</text>
+				</lyric>
+			</note>
+		</measure>
+		<!--==========================[1,30]=============================-->
+		<measure number="30" width="139">
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-57.66">down</stem>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" number="1" placement="above" orientation="under"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">lu</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-57.66">down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>D</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-60.16">down</stem>
+				<beam number="1">end</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+					<technical>
+						<fingering placement="below" relative-x="-2.24" relative-y="-18.75">1</fingering>
+					</technical>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="-60.16">down</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>C</step>
+					<octave>5</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-57.97">down</stem>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ia,</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-57.97">down</stem>
+			</note>
+		</measure>
+		<!--==========================[1,31]=============================-->
+		<measure number="31" width="203">
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">begin</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">0l</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>B</step>
+					<alter>-1</alter>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="14.22">up</stem>
+				<beam number="1">end</beam>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">le</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="14.22">up</stem>
+			</note>
+			<note>
+				<pitch>
+					<step>A</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<beam number="1">begin</beam>
+				<notations>
+					<slur type="start" number="1" placement="above" orientation="over"/>
+				</notations>
+				<lyric number="1" justify="left" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">lu</text>
+				</lyric>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="9.22">up</stem>
+				<notations>
+					<slur type="start" number="2" placement="below" orientation="under"/>
+					<technical>
+						<fingering placement="below" relative-x="-14.74" relative-y="-28.46">1</fingering>
+					</technical>
+				</notations>
+			</note>
+			<note>
+				<pitch>
+					<step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.22">up</stem>
+				<beam number="1">end</beam>
+				<notations>
+					<slur type="stop" number="1"/>
+				</notations>
+			</note>
+			<note>
+				<chord/>
+				<pitch>
+					<step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>3360</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<stem default-y="4.22">up</stem>
+				<notations>
+					<slur type="stop" number="2"/>
+				</notations>
+			</note>
+		</measure>
+		<!--==========================[1,32]=============================-->
+		<measure number="32" width="89">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<voice>1</voice>
+				<type>half</type>
+				<stem default-y="-0.47">up</stem>
+				<lyric number="1" justify="center" default-y="-95.46">
+					<syllabic>single</syllabic>
+					<text font-family="VNI" font-size="11" font-weight="normal" font-style="normal" xml:lang="vi">ia.</text>
+				</lyric>
+			</note>
+			<backup>
+				<duration>13440</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>13440</duration>
+				<tie type="start"/>
+				<voice>2</voice>
+				<type>half</type>
+				<stem default-y="-62.97">down</stem>
+				<notations>
+					<tied type="start" number="1" placement="below" orientation="over"/>
+				</notations>
+			</note>
+		</measure>
+		<!--==========================[1,33]=============================-->
+		<measure number="33" width="86">
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<stem default-y="-0.47">up</stem>
+			</note>
+			<backup>
+				<duration>6720</duration>
+			</backup>
+			<note>
+				<pitch>
+					<step>F</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>6720</duration>
+				<tie type="stop"/>
+				<voice>2</voice>
+				<type>quarter</type>
+				<stem default-y="-62.97">down</stem>
+				<notations>
+					<tied type="stop" number="1"/>
+				</notations>
+			</note>
+			<barline location="right">
+				<bar-style>light-heavy</bar-style>
+			</barline>
+		</measure>
+	</part>
+</score-partwise>
